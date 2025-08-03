@@ -43,7 +43,7 @@ export interface Cart {
   itemCount: number;
 }
 
-export type CategoryType = 'agbada' | 'kaftans' | 'polo' | 'baggy-pants' | 'accessories';
+export type CategoryType = 'agbada' | 'kaftans' | 'polo' | 'baggy-pants' | 'accessories' | 'vintage' | 'specials';
 
 export type Size = 'XS' | 'S' | 'M' | 'L' | 'XL' | 'XXL';
 
